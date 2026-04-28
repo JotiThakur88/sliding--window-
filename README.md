@@ -15,6 +15,7 @@ LEET TO GITHUB
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ LEET TO GITHUB
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## String
@@ -77,17 +79,20 @@ LEET TO GITHUB
 | [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +110,12 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->

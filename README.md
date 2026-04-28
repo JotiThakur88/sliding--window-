@@ -7,6 +7,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +27,8 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 <!---LeetCode Topics End-->

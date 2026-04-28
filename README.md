@@ -20,6 +20,7 @@ LEET TO GITHUB
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/JotiThakur88/sliding--window-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JotiThakur88/sliding--window-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1499-max-value-of-equation](https://github.com/JotiThakur88/sliding--window-/tree/main/1499-max-value-of-equation/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ LEET TO GITHUB
 | [1052-grumpy-bookstore-owner](https://github.com/JotiThakur88/sliding--window-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JotiThakur88/sliding--window-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1499-max-value-of-equation](https://github.com/JotiThakur88/sliding--window-/tree/main/1499-max-value-of-equation/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ LEET TO GITHUB
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JotiThakur88/sliding--window-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1499-max-value-of-equation](https://github.com/JotiThakur88/sliding--window-/tree/main/1499-max-value-of-equation/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,11 +131,13 @@ LEET TO GITHUB
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JotiThakur88/sliding--window-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1499-max-value-of-equation](https://github.com/JotiThakur88/sliding--window-/tree/main/1499-max-value-of-equation/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/JotiThakur88/sliding--window-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1499-max-value-of-equation](https://github.com/JotiThakur88/sliding--window-/tree/main/1499-max-value-of-equation/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

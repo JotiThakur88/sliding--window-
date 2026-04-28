@@ -11,6 +11,7 @@ LEET TO GITHUB
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JotiThakur88/sliding--window-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ LEET TO GITHUB
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JotiThakur88/sliding--window-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +62,8 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 <!---LeetCode Topics End-->

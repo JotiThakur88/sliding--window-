@@ -18,6 +18,7 @@ LEET TO GITHUB
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1052-grumpy-bookstore-owner](https://github.com/JotiThakur88/sliding--window-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ LEET TO GITHUB
 | [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/JotiThakur88/sliding--window-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## String
 | Problem Name | Difficulty |

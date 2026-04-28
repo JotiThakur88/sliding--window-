@@ -16,6 +16,7 @@ LEET TO GITHUB
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ LEET TO GITHUB
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## Sliding Window
@@ -41,6 +43,7 @@ LEET TO GITHUB
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## String

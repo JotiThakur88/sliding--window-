@@ -6,6 +6,7 @@ LEET TO GITHUB
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -25,6 +26,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
@@ -66,6 +68,7 @@ LEET TO GITHUB
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -74,6 +77,7 @@ LEET TO GITHUB
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JotiThakur88/sliding--window-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |

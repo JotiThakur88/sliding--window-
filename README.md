@@ -15,6 +15,7 @@ LEET TO GITHUB
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -23,6 +24,7 @@ LEET TO GITHUB
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
@@ -35,6 +37,7 @@ LEET TO GITHUB
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
@@ -75,5 +78,14 @@ LEET TO GITHUB
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->

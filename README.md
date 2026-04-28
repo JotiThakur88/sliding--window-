@@ -10,6 +10,7 @@ LEET TO GITHUB
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/JotiThakur88/sliding--window-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
@@ -20,6 +21,7 @@ LEET TO GITHUB
 | [0219-contains-duplicate-ii](https://github.com/JotiThakur88/sliding--window-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## Sliding Window
@@ -31,6 +33,7 @@ LEET TO GITHUB
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JotiThakur88/sliding--window-/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/JotiThakur88/sliding--window-/tree/main/0413-arithmetic-slices/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/JotiThakur88/sliding--window-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
@@ -56,6 +59,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/JotiThakur88/sliding--window-/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -73,6 +77,7 @@ LEET TO GITHUB
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/JotiThakur88/sliding--window-/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -92,4 +97,8 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JotiThakur88/sliding--window-/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->

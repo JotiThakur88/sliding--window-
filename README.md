@@ -17,6 +17,7 @@ LEET TO GITHUB
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ LEET TO GITHUB
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/JotiThakur88/sliding--window-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/JotiThakur88/sliding--window-/tree/main/1156-swap-for-longest-repeated-character-substring/) | Medium |
 ## String
@@ -96,10 +98,12 @@ LEET TO GITHUB
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JotiThakur88/sliding--window-/tree/main/0689-maximum-sum-of-3-non-overlapping-subarrays/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/JotiThakur88/sliding--window-/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/JotiThakur88/sliding--window-/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -117,6 +121,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JotiThakur88/sliding--window-/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/JotiThakur88/sliding--window-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
